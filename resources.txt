@@ -1,0 +1,15 @@
+https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification/data
+
+https://www.kaggle.com/code/karnikakapoor/fetal-health-classification
+
+https://towardsdatascience.com/the-complete-guide-to-neural-networks-multinomial-classification-4fe88bde7839
+
+https://www.kaggle.com/datasets/andrewmvd/leukemia-classification
+
+https://www.kaggle.com/code/kushal1996/customer-segmentation-k-means-analysis
+
+https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
+
+https://machinelearningmastery.com/weight-initialization-for-deep-learning-neural-networks/
+
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
